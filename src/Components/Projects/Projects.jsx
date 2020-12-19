@@ -9,6 +9,7 @@ function Projects() {
 			<div className="projects-heading">SEE MY CODE</div>
 			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
 				<div className="project-title">Basic Social Platform (MERN Stack)</div>
+				May 2020 – Jun 2020
 				<div className="project-content">
 					This projects implements some of the basic features of Instagram
 					<ul>
@@ -33,6 +34,7 @@ function Projects() {
 			</div>
 			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
 				<div className="project-title">Online-IDE</div>
+				Nov 2020
 				<div className="project-content">
 					This projects is a simple online Editor/Compiler for programmers just Starting
 					<ul>
@@ -55,6 +57,7 @@ function Projects() {
 			</div>
 			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
 				<div className="project-title">Simple Timer Using ReactJS</div>
+				Oct 2020
 				<div className="project-content">
 					A simple project implementing the basic features of Stopwatch/timer.
 					<ul>
@@ -82,6 +85,7 @@ function Projects() {
 			</div>
 			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
 				<div className="project-title">Quotes and Fun Translations</div>
+				Dec 2020
 				<div className="project-content">
 					A project made using HTML, CSS, and javascript only.
 					<ul>
@@ -106,6 +110,7 @@ function Projects() {
 			</div>
 			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
 				<div className="project-title">UI Designs (Using ReactJs)</div>
+				Nov 2020
 				<div className="project-content">
 					Some UI designs made Using ReactJS
 					<ul>
@@ -142,8 +147,9 @@ function Projects() {
 			</div>
 			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
 				<div className="project-title">Simple Project Manager</div>
+				Nov 2019 – Dec 2019
 				<div className="project-content">
-					Basic Project Handler which ahs following features:
+					Basic Project Handler which has the following features:
 					<ul>
 						<li>A springboot project along with inbuilt thymeleaf</li>
 						<li>Allows register and login using inbuilt spring security classes</li>
@@ -156,7 +162,6 @@ function Projects() {
 						</li>
 					</ul>
 				</div>
-
 				<a
 					href="https://github.com/Priyanshj89/Project-Manager-Springboot-Project"
 					target="_blank"

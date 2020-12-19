@@ -4,6 +4,23 @@
 	max-width: 100vw;
 }
 
+.home-intro {
+	display: flex;
+	padding: 30px;
+}
+
+.home-content {
+	font-size: 24px;
+	padding: 20px;
+}
+
+.home-tech {
+	max-width: 30%;
+	max-height: 40%;
+	padding: 20px;
+	border-radius: 50px;
+}
+
 .technologies {
 	text-align: center;
 	background-color: #f3f4f6;
@@ -21,7 +38,7 @@
 }
 
 .tech-content {
-	font-size: 22px;
+	font-size: 24px;
 	font-weight: 400;
 	text-align: left;
 	padding: 20px;
@@ -42,8 +59,8 @@
 	text-align: center;
 }
 
-.project-content {
-	font-size: 22px;
+.project-contend {
+	font-size: 24px;
 	font-weight: 400;
 	text-align: left;
 	padding: 20px;
