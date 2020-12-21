@@ -39,10 +39,14 @@ function Home() {
 			<div className="technologies">
 				<div className="tech-heading">Others</div>
 				<div className="tech-content">
-					<strong>Corsera Certificates</strong> - You can see the Certificates using the given google drive
+					<strong>Coursera Certificates</strong> - You can see the Certificates using the given google drive
 					link<br></br>
-					<a href="https://drive.google.com/folderview?id=18cpPbF5zYL2LHDVqNzlMC0OBlUTt3Mn6" target="_blank">
-						https://drive.google.com/folderview?id=18cpPbF5zYL2LHDVqNzlMC0OBlUTt3Mn6{' '}
+					<a
+						href="https://drive.google.com/folderview?id=18cpPbF5zYL2LHDVqNzlMC0OBlUTt3Mn6"
+						target="_blank"
+						className="certificate-link"
+					>
+						View Certificates
 					</a>
 					<br />
 					<br />

@@ -4,7 +4,7 @@ import './Footer.css';
 function Footer() {
 	return (
 		<div className="footer">
-			<div style={{ display: 'flex', justifyContent: 'center' }}>
+			<div className="mv">
 				<div>
 					<div className="social">Social Media Presence</div>
 					<div className="social-options">
@@ -20,7 +20,7 @@ function Footer() {
 						</a>
 					</div>
 				</div>
-				<div style={{ marginLeft: '15%' }}>
+				<div className="mv1">
 					<div className="social">Contact Details</div>
 					<div className="contact">Phone No. - 9167973298</div>
 					<div className="contact">Email - j.priyansh89@gmail.com</div>

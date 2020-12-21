@@ -7,7 +7,7 @@ function Projects() {
 		<div className="projects">
 			<img src={Proj} alt="Projects" className="project-image"></img>
 			<div className="projects-heading">SEE MY CODE</div>
-			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
+			<div className="mv2">
 				<div className="project-title">Basic Social Platform (MERN Stack)</div>
 				May 2020 – Jun 2020
 				<div className="project-content">
@@ -32,7 +32,7 @@ function Projects() {
 					<button className="source-project-button">View Source Code</button>
 				</a>
 			</div>
-			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
+			<div className="mv2">
 				<div className="project-title">Online-IDE</div>
 				Nov 2020
 				<div className="project-content">
@@ -55,7 +55,7 @@ function Projects() {
 					<button className="source-project-button">View Source Code</button>
 				</a>
 			</div>
-			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
+			<div className="mv2">
 				<div className="project-title">Simple Timer Using ReactJS</div>
 				Oct 2020
 				<div className="project-content">
@@ -83,7 +83,7 @@ function Projects() {
 					<button className="source-project-button">View Source Code</button>
 				</a>
 			</div>
-			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
+			<div className="mv2">
 				<div className="project-title">Quotes and Fun Translations</div>
 				Dec 2020
 				<div className="project-content">
@@ -93,8 +93,6 @@ function Projects() {
 						<li>Quote giver gives random quotes as well as quotes based on tags/themes/keywords.</li>
 						<li>Fun Translation translates the given text in the language of minion.</li>
 						<li>fetch() is used in javascript to request the API for necessary Information.</li>
-						<li>History can also be cleared.</li>
-						<li>useState hook is used to add React state to functional components.</li>
 					</ul>
 				</div>
 				<a href="https://pure-html-css-js.herokuapp.com/" target="_blank" style={{ textDecoration: 'none' }}>
@@ -108,7 +106,7 @@ function Projects() {
 					<button className="source-project-button">View Source Code</button>
 				</a>
 			</div>
-			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
+			<div className="mv2">
 				<div className="project-title">UI Designs (Using ReactJs)</div>
 				Nov 2020
 				<div className="project-content">
@@ -145,7 +143,7 @@ function Projects() {
 					</a>
 				</div>
 			</div>
-			<div style={{ paddingLeft: '20%', marginBottom: '5%' }}>
+			<div className="mv2">
 				<div className="project-title">Simple Project Manager</div>
 				Nov 2019 – Dec 2019
 				<div className="project-content">
