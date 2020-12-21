@@ -20,7 +20,7 @@ function Footer() {
 						</a>
 					</div>
 				</div>
-				<hr style={{ backgroundColor: 'white' }}></hr>
+				<hr style={{ backgroundColor: 'white' }} className="seperator"></hr>
 				<div className="mv1">
 					<div className="social">Contact Details</div>
 					<div className="contact">Phone No. - 9167973298</div>

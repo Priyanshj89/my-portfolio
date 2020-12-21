@@ -42,6 +42,10 @@
 	padding-left: 15%;
 }
 
+.seperator {
+	display: none;
+}
+
 @media screen and (max-width: 768px) {
 	.mv {
 		display: block;
@@ -67,5 +71,9 @@
 
 	.social {
 		font-size: 24px;
+	}
+
+	.seperator {
+		display: block;
 	}
 }
