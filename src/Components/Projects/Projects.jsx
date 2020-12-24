@@ -5,9 +5,9 @@ import Proj from '../../project_image.jpg';
 function Projects() {
 	return (
 		<div className="projects">
-			<img src={Proj} alt="Projects" className="project-image"></img>
-			<div className="projects-heading">SEE MY CODE</div>
-			<div className="mv2">
+			<img src={Proj} alt="Projects" className="project-image  w3-animate-opacity"></img>
+			<div className="projects-heading w3-animate-left">SEE MY CODE</div>
+			<div className="mv2 w3-animate-right">
 				<div className="project-title">Basic Social Platform (MERN Stack)</div>
 				May 2020 – Jun 2020
 				<div className="project-content">
@@ -32,7 +32,7 @@ function Projects() {
 					<button className="source-project-button">View Source Code</button>
 				</a>
 			</div>
-			<div className="mv2">
+			<div className="mv2 w3-animate-right">
 				<div className="project-title">Online-IDE</div>
 				Nov 2020
 				<div className="project-content">
@@ -55,7 +55,7 @@ function Projects() {
 					<button className="source-project-button">View Source Code</button>
 				</a>
 			</div>
-			<div className="mv2">
+			<div className="mv2 w3-animate-right">
 				<div className="project-title">Simple Timer Using ReactJS</div>
 				Oct 2020
 				<div className="project-content">
@@ -83,7 +83,7 @@ function Projects() {
 					<button className="source-project-button">View Source Code</button>
 				</a>
 			</div>
-			<div className="mv2">
+			<div className="mv2 w3-animate-right">
 				<div className="project-title">Quotes and Fun Translations</div>
 				Dec 2020
 				<div className="project-content">
@@ -106,7 +106,7 @@ function Projects() {
 					<button className="source-project-button">View Source Code</button>
 				</a>
 			</div>
-			<div className="mv2">
+			<div className="mv2 w3-animate-right">
 				<div className="project-title">UI Designs (Using ReactJs)</div>
 				Nov 2020
 				<div className="project-content">
@@ -143,7 +143,7 @@ function Projects() {
 					</a>
 				</div>
 			</div>
-			<div className="mv2">
+			<div className="mv2 w3-animate-right">
 				<div className="project-title">Simple Project Manager</div>
 				Nov 2019 – Dec 2019
 				<div className="project-content">

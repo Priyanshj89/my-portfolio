@@ -43,6 +43,10 @@
 	margin: 10px;
 }
 
+.live-project-button:hover {
+	box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
 .live-project-button:focus {
 	outline: none;
 }
@@ -60,6 +64,10 @@
 	cursor: pointer;
 	max-width: fit-content;
 	margin: 10px;
+}
+
+.source-project-button:hover {
+	box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
 }
 
 .source-project-button:focus {

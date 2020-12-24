@@ -7,8 +7,8 @@ function Home() {
 	return (
 		<div className="home">
 			<div className="home-intro">
-				<img src={technology} className="home-tech"></img>
-				<div className="home-content">
+				<img src={technology} className="home-tech w3-animate-opacity"></img>
+				<div className="home-content w3-animate-right">
 					<div style={{ fontSize: '28px', fontWeight: '700' }}>
 						Interested in Software and Web Development
 					</div>
@@ -20,7 +20,7 @@ function Home() {
 					work for.
 				</div>
 			</div>
-			<div className="technologies">
+			<div className="technologies w3-animate-zoom">
 				<div className="tech-heading">Technologies</div>
 				<div className="tech-content">
 					I am familiar with HTML5, CSS3, Git, Javascript, NodeJS, ReactJs, Web Hosting, C++, Java and some
